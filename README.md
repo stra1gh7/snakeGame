@@ -20,7 +20,7 @@ The game ends when the snake collides with its own tail.
 Your final score will be displayed, and you can choose whether you want to play again or not.
 
 ## Getting started
-To play the Snake game clone this repository and run the batch file to install the requirements (you should have python installed on your computer).
+To play the Snake Game, clone this repository and run the batch file to install the requirements (you should have python installed on your computer).
 Then, simply run the "snake.py" script and let the fun begin!
 
 ## License
