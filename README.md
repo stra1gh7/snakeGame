@@ -29,5 +29,7 @@ Your final score will be displayed, and you can choose whether you want to play 
 To play the Snake Game, clone this repository and run the batch file to install the requirements (you should have python installed on your computer).
 Then, simply run the "snake.py" script and let the fun begin!
 
+![showcase4](https://github.com/stra1gh7/snakeGame/blob/main/images/showcase4.png?raw=true)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/stra1gh7/snakeGame/blob/main/LICENSE) file for details.
