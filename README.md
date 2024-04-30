@@ -1,4 +1,4 @@
-# Snake Game by stra1gh7
+# Snake Game by [stra1gh7](https://youtube.com/stra1gh7)
 
 The following is a classic Snake game. This simple yet addictive game will challenge your reflexes and strategic thinking as you control a snake around the screen, eating apples to grow bigger while avoiding collisions your own tail.
 
